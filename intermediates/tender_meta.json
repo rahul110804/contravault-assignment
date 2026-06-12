@@ -1,0 +1,28 @@
+{
+  "schedules": [
+    {
+      "schedule_id": "Schedule 1",
+      "description": "Lighting Pole Or Post And Hardware - Tubular Street Light",
+      "designation": "Poles (v2)",
+      "quantity": 1600,
+      "unit": "pieces"
+    },
+    {
+      "schedule_id": "Schedule 2",
+      "description": "Lighting Pole Or Post And Hardware - Tubular Street Light",
+      "designation": "Poles (v2)",
+      "quantity": 1600,
+      "unit": "pieces"
+    },
+    {
+      "schedule_id": "Schedule 3",
+      "description": "Lighting Pole Or Post And Hardware - Tubular Street Light",
+      "designation": "Poles (v2)",
+      "quantity": 650,
+      "unit": "pieces"
+    }
+  ],
+  "tender_opening_date": "2024-06-06",
+  "total_requirements": 151,
+  "extraction_timestamp": "2026-06-12T16:52:20.358729"
+}

@@ -1,0 +1,1818 @@
+{
+  "requirements": [
+    {
+      "req_id": "COMM_001",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Bid offer validity period",
+      "expected": "120 Days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "ELIG_001",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Bidder must be eligible for MSE exemption for Years Of Experience/Turnover",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "ELIG_002",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Bidder must be eligible for Startup exemption for Years Of Experience/Turnover",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_002",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Seller must upload 'Certificate (Requested in ATC)'",
+      "expected": "Uploaded",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_003",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Seller must upload 'Additional Doc 1 (Requested in ATC)'",
+      "expected": "Uploaded",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_004",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Supporting documents to prove eligibility for exemption from Experience / Turnover Criteria must be uploaded for evaluation by the buyer",
+      "expected": "Uploaded",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_005",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Bid type must be Two Packet Bid",
+      "expected": "Two Packet Bid",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_006",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Time allowed for Technical Clarifications during technical evaluation",
+      "expected": "7 Days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 1
+      }
+    },
+    {
+      "req_id": "COMM_007",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "ePBG Percentage",
+      "expected": "5.00%",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "COMM_008",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Duration of ePBG required",
+      "expected": "9 Months",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "COMM_009",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "EMD & Performance security should be in favour of the specified beneficiary",
+      "expected": "NCL Singrauli",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_003",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Bid is reserved for Make In India products",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_004",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Bid is reserved for MSEs",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_005",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is a Micro or Small Enterprise, they shall be exempted from 'Bidder Turnover' criteria subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_006",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is a Micro or Small Enterprise, they shall be exempted from 'Experience Criteria' subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_007",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is OEM of offered products and a Micro or Small Enterprise, they shall be exempted from 'OEM Average Turnover' criteria subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 2
+      }
+    },
+    {
+      "req_id": "ELIG_008",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is a Startup, they shall be exempted from 'Bidder Turnover' criteria subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_009",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is a Startup, they shall be exempted from 'Experience Criteria' subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_010",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bidder is OEM of offered products and a Startup, they shall be exempted from 'OEM Average Turnover' criteria subject to meeting quality and technical specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_011",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Procurement under this bid is reserved for purchase from Class 1 local supplier as defined in Public Procurement (Preference to Make in India) Order 2017",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_012",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "The minimum local content to qualify as a Class 1 local supplier is denoted in the bid document",
+      "expected": "Denoted in bid document",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_013",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "All bidders must upload a certificate from the OEM regarding the percentage of the local content along with their bid",
+      "expected": "Uploaded",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_014",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "All bidders must upload details of locations at which the local value addition is made along with their bid",
+      "expected": "Uploaded",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_015",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Failure to upload local content certificate and details of local value addition locations will result in bid rejection",
+      "expected": false,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_016",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If bid value is more than Rs 10 Crore, the declaration relating to percentage of local content shall be certified by the statutory auditor or cost auditor (if OEM is a company) or by a practicing cost accountant or a chartered accountant (for OEMs other than companies)",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_017",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials are validated online through Udyog Aadhaar for that product category",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_018",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If the bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_019",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_020",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Relevant documentary evidence regarding manufacturer status shall be uploaded along with the bid",
+      "expected": "Uploaded",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "COMM_010",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Evaluation Method",
+      "expected": "Item wise evaluation",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "COMM_011",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Contract will be awarded schedulewise",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "COMM_012",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Determination of L1 will be done separately for each schedule",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "TECH_S1_001",
+      "schedule": "Schedule 1",
+      "bucket": "technical",
+      "text": "Quantity of Lighting Pole Or Post And Hardware - Tubular Street Light Poles (V2)",
+      "expected": 1600,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "TECH_S2_001",
+      "schedule": "Schedule 2",
+      "bucket": "technical",
+      "text": "Quantity of Lighting Pole Or Post And Hardware - Tubular Street Light Poles (V2)",
+      "expected": 1600,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "TECH_S3_001",
+      "schedule": "Schedule 3",
+      "bucket": "technical",
+      "text": "Quantity of Lighting Pole Or Post And Hardware - Tubular Street Light Poles (V2)",
+      "expected": 650,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "ELIG_021",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Minimum local content required for qualifying as Class 1 Local Supplier for Lighting Pole Or Post And Hardware - Tubular Street Light Poles (V2)",
+      "expected": "60%",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 3
+      }
+    },
+    {
+      "req_id": "TECH_S1_002",
+      "schedule": "Schedule 1",
+      "bucket": "technical",
+      "text": "Constructional Type of steel poles",
+      "expected": "Swaged (SP) or Swaged (SP) with departmental logo as prescribed by buyer on each pole",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "TECH_S1_003",
+      "schedule": "Schedule 1",
+      "bucket": "technical",
+      "text": "Generic Coating on the tubular steel poles",
+      "expected": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "TECH_S1_004",
+      "schedule": "Schedule 1",
+      "bucket": "technical",
+      "text": "Length of Tubular steel poles",
+      "expected": "11 Metre",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "TECH_S1_005",
+      "schedule": "Schedule 1",
+      "bucket": "technical",
+      "text": "Designation of Tubular steel poles as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "expected": "410SP-57",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "COMM_S1_001",
+      "schedule": "Schedule 1",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 800 quantity: Delivery to start after 0 days and be completed by 90 days from contract start date",
+      "expected": "Start after 0 days, complete by 90 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "COMM_S1_002",
+      "schedule": "Schedule 1",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 800 quantity: Delivery to start after 1 day and be completed by 180 days from contract start date",
+      "expected": "Start after 1 day, complete by 180 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 4
+      }
+    },
+    {
+      "req_id": "TECH_S2_002",
+      "schedule": "Schedule 2",
+      "bucket": "technical",
+      "text": "Constructional Type of steel poles",
+      "expected": "Swaged (SP) or Swaged (SP) with departmental logo as prescribed by buyer on each pole",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "TECH_S2_003",
+      "schedule": "Schedule 2",
+      "bucket": "technical",
+      "text": "Generic Coating on the tubular steel poles",
+      "expected": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "TECH_S2_004",
+      "schedule": "Schedule 2",
+      "bucket": "technical",
+      "text": "Length of Tubular steel poles",
+      "expected": "13 Metre",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "TECH_S2_005",
+      "schedule": "Schedule 2",
+      "bucket": "technical",
+      "text": "Designation of Tubular steel poles as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "expected": "410SP-72",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "COMM_S2_001",
+      "schedule": "Schedule 2",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 800 quantity: Delivery to start after 0 days and be completed by 90 days from contract start date",
+      "expected": "Start after 0 days, complete by 90 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "COMM_S2_002",
+      "schedule": "Schedule 2",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 800 quantity: Delivery to start after 1 day and be completed by 180 days from contract start date",
+      "expected": "Start after 1 day, complete by 180 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 5
+      }
+    },
+    {
+      "req_id": "TECH_S3_002",
+      "schedule": "Schedule 3",
+      "bucket": "technical",
+      "text": "Constructional Type of steel poles",
+      "expected": "Swaged (SP) or Swaged (SP) with departmental logo as prescribed by buyer on each pole",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "TECH_S3_003",
+      "schedule": "Schedule 3",
+      "bucket": "technical",
+      "text": "Generic Coating on the tubular steel poles",
+      "expected": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "TECH_S3_004",
+      "schedule": "Schedule 3",
+      "bucket": "technical",
+      "text": "Length of Tubular steel poles",
+      "expected": "16 Metre",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "TECH_S3_005",
+      "schedule": "Schedule 3",
+      "bucket": "technical",
+      "text": "Designation of Tubular steel poles as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "expected": "410SP-80",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_S3_001",
+      "schedule": "Schedule 3",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 325 quantity: Delivery to start after 0 days and be completed by 90 days from contract start date",
+      "expected": "Start after 0 days, complete by 90 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_S3_002",
+      "schedule": "Schedule 3",
+      "bucket": "commercial",
+      "text": "Delivery schedule for 325 quantity: Delivery to start after 1 day and be completed by 180 days from contract start date",
+      "expected": "Start after 1 day, complete by 180 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_013",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Purchaser reserves the right to increase or decrease the quantity to be ordered up to 25 percent of bid quantity at the time of placement of contract",
+      "expected": "Up to 25%",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_014",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Purchaser reserves the right to increase the ordered quantity by up to 25% of the contracted quantity during the currency of the contract at the contracted rates",
+      "expected": "Up to 25%",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_015",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Bidders are bound to accept the orders accordingly as per option clause",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "COMM_016",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Scope of supply (Bid price to include all cost components)",
+      "expected": "Only supply of Goods",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 6
+      }
+    },
+    {
+      "req_id": "ELIG_022",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Procurement under this bid is reserved for purchase from Micro and Small Enterprises whose credentials are validated online through Udyog Aadhaar/URC for that product/service category",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "ELIG_023",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If the bidder wants to avail the reservation benefit, the bidder must be the manufacturer of the offered product in case of bid for supply of goods",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "ELIG_024",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Traders are excluded from the purview of Public Procurement Policy for Micro and Small Enterprises",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "ELIG_025",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Relevant documentary evidence regarding manufacturer status shall be uploaded along with the bid",
+      "expected": "Uploaded",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "COMM_017",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Earnest Money Deposit (EMD)/ Bid Security",
+      "expected": "Not Applicable",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_001",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Tendered/similar item(s) of same/similar/higher specifications/ratings/versions must have been supplied during the last 5 years from the date of tender opening",
+      "expected": "Supplied in last 5 years",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_002",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Supplies must be against orders of CIL and its subsidiaries, other PSUs, Government Departments and Private Organizations",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_003",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Performance of supplied items must have been found satisfactory",
+      "expected": "Satisfactory",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_004",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "If end user certificate is not available, satisfactory performance will be assessed on the basis of self-certification claiming satisfactory performance of supplied equipment along with Supply Order(s)/Other documents regarding past supply",
+      "expected": "Self-certification + Supply Order(s)/Other documents",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_005",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Definition of Higher Specification for Tubular Poles",
+      "expected": "Tubular Pole of Tendered height/Tubular Pole of Higher Height",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_006",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Bidder must submit a Self-Certificate in the specified format for proven-ness",
+      "expected": "Submitted in specified format",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_007",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Bidder must submit Proof of Payment against the Purchase Order(s)/Rate Contract(s) along with the offer",
+      "expected": "Uploaded",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_008",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Bidder must submit commissioning certificate(s) (in case of Equipment, P&M, etc. where installation & commissioning is required) along with the offer",
+      "expected": "Uploaded if applicable",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_009",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Self-Certificate must state that items covered in PO(s)/RC(s) have been fully executed and performed satisfactorily, and no complaints/claims are pending",
+      "expected": "True",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "TECH_010",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "If any specific Purchase Order(s) has/have not been fully executed or any complaint/claim is pending, details must be categorically mentioned with reasons",
+      "expected": "Details mentioned if applicable",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 7
+      }
+    },
+    {
+      "req_id": "COMM_018",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The authenticity of the self-certificate as well as other documents submitted/uploaded by the bidder will solely be their responsibility",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_026",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Only MSE manufacturer who is Class I local supplier having local content more than 60% are eligible to participate in this tender",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_027",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Bidder to submit valid Udyam Registration Certificate",
+      "expected": "Valid Udyam Registration Certificate",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_028",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Valid copy of BIS Marking License with coverage of tendered item (as per IS 2713 Part 1 to 3 1980) needs to be submitted with the offer",
+      "expected": "Valid BIS Marking License",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_029",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "OEM must submit any one of the following self-certified valid documents: Factory license/Manufacturing license, ISO Certificate, BIS license/certificate confirming to IS 2713 Part 1 to 3 1980, Micro / Small Enterprises [MSE] Registration certificate, DGMS approval, DGS&D registration certificate, or any other valid document to establish that OEM is Principal manufacturer of the offered item",
+      "expected": "One of the listed documents",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_030",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "The indented item is covered in the list of items reserved for procurement from Class I Local Supplier as per Office Order NO. A-1/2021-FSC-Part(5) dtd 16.11.2021 of Ministry of Power",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 8
+      }
+    },
+    {
+      "req_id": "ELIG_031",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "MSEs must have the technical capability to deliver the goods and services as per prescribed technical and quality specifications",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 9
+      }
+    },
+    {
+      "req_id": "ELIG_032",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "Prior experience and turnover criteria is not applicable for MSEs in the tenders",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 9
+      }
+    },
+    {
+      "req_id": "ELIG_033",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "No further documents regarding Provenness will be required to be submitted by MSE bidders",
+      "expected": true,
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 9
+      }
+    },
+    {
+      "req_id": "COMM_019",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "If bidders have submitted documents to prove the MSE status for the tendered item without certificate towards quality, assurance and capability from some authority, the TIA may assess the techno-commercial capability of the vendors",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 9
+      }
+    },
+    {
+      "req_id": "TECH_011",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "MSEs should submit the details of plant & machinery, quality control arrangements, etc., in the 'Proforma for Equipment and Quality Control' (as per Annexure-I) along with their bids for verification of their technical capability",
+      "expected": "Submitted",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 9
+      }
+    },
+    {
+      "req_id": "TECH_012",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Favorable technical capability reports obtained earlier on such firms for supply of the item in question as per the required specification may be considered for granting relaxation to the criteria of prior experience and prior turnover, provided that date of such reports are not more than one year from the date of opening of bids",
+      "expected": "Not more than one year old",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "ELIG_034",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "If MSE bidders have ISI marked/DGMS approved/Proven in CIL or its Subsidiary companies/Proven product of the ancillary unit of a Subsidiary Company of CIL, they will be required to submit the following applicable related documents, duly self-certified, for relaxation from the criteria of prior experience and prior turnover: a valid BIS Marking License for the quoted items OR Rate contract issued by CIL/its Subsidiary Companies for the quoted items OR a valid DGMS Approval certificate for the quoted items OR Proven Ancillary certificate issued by the Subsidiary Companies for the quoted items",
+      "expected": "One of the listed documents",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "ELIG_035",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "The document(s)/certificate(s) furnished by the bidders for ISI markings or DGMS approval for any relaxation should be valid on the date of tender opening",
+      "expected": "Valid on tender opening date",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "ELIG_036",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "A self-certified copy of document(s)/certificate(s) for ISI markings or DGMS approval, valid on the date of supply, must accompany their bill(s)",
+      "expected": "Valid on supply date and accompany bill(s)",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_020",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "If the documents related to OEM or Principal, the self certification of OEM or principal shall also be required",
+      "expected": "Self-certification required",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_021",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Guarantee/Warrantee period",
+      "expected": "12 Months from the date of commissioning or 18 months from date of receipt and acceptance of material at consignee's end, whichever is earlier",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_022",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Supplier warrants that the Goods supplied under the Contract are new, unused, of the most recent or current models and that they incorporate all recent improvements in design and materials",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_023",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Supplier warrants that all Goods supplied under this Contract shall have no defect arising from design, materials or workmanship or from any act or omission of the Supplier that may develop under normal use",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_024",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Supplier shall, within thirty days of notification, repair or replace the defective Goods or parts thereof, free of cost at the ultimate destination",
+      "expected": "30 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_025",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Supplier shall take over the replaced parts/Goods at the time of their replacement",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 10
+      }
+    },
+    {
+      "req_id": "COMM_026",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Pre-despatch Inspection shall be done by nominated agency of NCL i.e. Central Mine Planning & Design Institute Ltd (CMPDIL) Ranchi / their Regional Office",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_027",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection fee @ 1% of total consignment billing (plus statutory levies like GST etc.) is to be paid to CMPDIL along with inspection call letter",
+      "expected": "1% of total consignment billing + statutory levies",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_028",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection fee is payable by SBI Collect by seller",
+      "expected": "SBI Collect",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_029",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The price is to be quoted by the seller inclusive of inspection fees",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_030",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Minimum 7 calendar days notice shall be given by the manufacturer to CMPDIL for arranging inspection",
+      "expected": "7 calendar days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_031",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection notice must be within valid delivery period as per contract",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "TECH_013",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "CMPDIL inspection shall include checking and approval of test procedures/quality assurance plans",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "TECH_014",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "CMPDIL inspection shall include verification of records and documents of your works",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "TECH_015",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "CMPDIL inspection shall include verification of documents and test certificate of bought out items and cross checks",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "TECH_016",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Bidder shall provide facilities for carrying out all necessary tests as required in the specification at their works, else these will be carried out at an independent test house at bidder's cost",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "TECH_017",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "CMPDIL inspection shall include final testing and checking of materials as per specifications",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_032",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The ultimate responsibility for supply of correct materials as per requirement of relevant specification lies solely with the manufacturer",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_033",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The manufacturer will be required to replace the material free of cost if found defective/unserviceable/not according to relevant specifications",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 11
+      }
+    },
+    {
+      "req_id": "COMM_034",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The charges for third party inspection and the cost of materials that would be required for destructive tests, if any, shall be reimbursed by NCL together with the consignment billing if duly certified by M/s. CMPDIL",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_035",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Final inspection shall be arranged by the consignee after receipt of the material at destination",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_036",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The purchaser shall, at its discretion, have the right to test the ordered material in a Government Test House or in a test house nominated by the purchaser",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_037",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "In case of failure of the material after testing, the cost of tests as well as of the material shall have to be borne by the supplier",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_038",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The facility for submission of PDI Fee on State Bank Collect will be available from 1st to 28th of every month",
+      "expected": "1st to 28th of every month",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_039",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The inspection call is required to be submitted online on the email id gmenm.cmpdi@coalindia.in, with a copy to paresh.saxena@coalindia.in",
+      "expected": "Submitted to specified emails",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_040",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection call submission must include a Covering letter on your letter head giving the details of inspection",
+      "expected": "Included",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_041",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection call submission must include Inspection call duly stamped and signed, addressed to GM (E&M) CMPDI in the required format on your letter head",
+      "expected": "Included",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_042",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection call submission must include Copy of e-money receipt for the PDT Fee deposited online",
+      "expected": "Included",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_043",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Inspection call submission must include Copy of the respective complete supplied order against which inspection call is raised",
+      "expected": "Included",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 12
+      }
+    },
+    {
+      "req_id": "COMM_044",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "All four documents for inspection call are to be submitted in separate PDF files",
+      "expected": "Separate PDF files",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_045",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "A copy of e-money receipt for the PDI Fee deposited online must be mailed on the email id: hqfinance@yahoo.com, with a copy to Sandeep.aru@coalindia.in",
+      "expected": "Mailed to specified emails",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_046",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Final Inspection will be carried out by authorized representative of GM (E&M)/HOD at Consignee's end",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_047",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Successful Bidder shall submit Security Deposit",
+      "expected": "5% of Contract Value",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_048",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Security Deposit valid for",
+      "expected": "09 months",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_049",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "EPBG as per GEM will be considered as Security Deposit",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_050",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Bidder shall submit the Security BG within 15 days of placement of order",
+      "expected": "15 days",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_051",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "If the successful tenderer fails to deposit the security deposit within 15 days from date of Notification of Award / placement of Order, another opportunity may be given to them for submission of Security Deposit within next 15 days",
+      "expected": true,
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 13
+      }
+    },
+    {
+      "req_id": "COMM_001_2",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The successful tenderer must submit a Security Deposit.",
+      "expected": "To be submitted (amount implied by 'SD amount')",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 14
+      }
+    },
+    {
+      "req_id": "COMM_002_2",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "The Security Deposit (BG) must be submitted at the Office of GM(MM), Materials Management Department, Northern Coalfields Limited, Singrauli.",
+      "expected": "Office of GM(MM), Materials Management Department, Northern Coalfields Limited, Singrauli",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 14
+      }
+    },
+    {
+      "req_id": "COMM_003_2",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "Central/State Government Organizations/PSUs are exempted from submitting Security Deposit.",
+      "expected": "Exempted if Central/State Government Organization/PSU",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 14
+      }
+    },
+    {
+      "req_id": "COMM_004_2",
+      "schedule": null,
+      "bucket": "commercial",
+      "text": "If the tender value is above Rs. 2 Crore, the bidder must agree to the Integrity Pact guidelines of GeM by submitting their offer.",
+      "expected": "Agreement to Integrity Pact guidelines of GeM",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 14
+      }
+    },
+    {
+      "req_id": "TECH_001_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide the Name and Address of the Firm.",
+      "expected": "Firm's Name and Address",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_002_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide the Telephone Number of the office/factory/works.",
+      "expected": "Telephone Number",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_003_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide the Fax Number and/or E-mail ID.",
+      "expected": "Fax Number / E-mail ID",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_004_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide the location of manufacturing works/factories owned by the firm.",
+      "expected": "Location details",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_005_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Produce documentary evidence of ownership for the manufacturing works/factories.",
+      "expected": "Documentary evidence of ownership",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_006_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide a brief description of the factory, including area covered, accommodation, departments, and laboratory facilities.",
+      "expected": "Factory description",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_007_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide details of plant and machinery erected and functioning in each department.",
+      "expected": "Details of plant and machinery",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_008_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Supply monographs and description pamphlets for plant and machinery, if available.",
+      "expected": "Monographs and description pamphlets (if available)",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_009_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State whether the manufacturing process in the factory is carried out with or without the aid of power.",
+      "expected": "With power / Without power",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 15
+      }
+    },
+    {
+      "req_id": "TECH_010_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide a Process Flow Chart for the entire manufacturing process of the tendered item.",
+      "expected": "Process Flow Chart",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_011_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide details and stocks of raw materials held.",
+      "expected": "Details and stocks of raw materials",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_012_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State the normal production capacity of the quoted items with existing plants and machinery.",
+      "expected": "Normal production capacity",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_013_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State the maximum production capacity of the quoted items with existing plants and machinery.",
+      "expected": "Maximum production capacity",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_014_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide details of the Quality Assurance Plan and Quality Control Infrastructures, including laboratories.",
+      "expected": "Quality Assurance Plan and QC Infrastructure details",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_015_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "Provide details of technical supervisory staff in charge of production and quality control.",
+      "expected": "Details of technical supervisory staff",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_016_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State the number of skilled labour employed.",
+      "expected": "Number of skilled labour",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_017_2",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State the number of unskilled labour employed.",
+      "expected": "Number of unskilled labour",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_018",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State the maximum number of workers (skilled and unskilled) employed on any day during the 18 months preceding the date of application.",
+      "expected": "Maximum number of workers",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_019",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "State whether stores were tested to any standard specification.",
+      "expected": "Yes/No",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "TECH_020",
+      "schedule": null,
+      "bucket": "technical",
+      "text": "If stores were tested to any standard specification, submit copies of original test certificates in duplicate.",
+      "expected": "Copies of original test certificates in duplicate (if applicable)",
+      "is_gating": false,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 16
+      }
+    },
+    {
+      "req_id": "ELIG_001_2",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "A bidder from a country sharing a land border with India must be registered with the Competent Authority to be eligible to bid.",
+      "expected": "Registered with Competent Authority (if applicable)",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 17
+      }
+    },
+    {
+      "req_id": "ELIG_002_2",
+      "schedule": null,
+      "bucket": "eligibility",
+      "text": "The bidder must undertake compliance with GeM GTC clause 26 regarding restrictions on procurement from countries sharing a land border with India.",
+      "expected": "Undertake compliance",
+      "is_gating": true,
+      "source_ref": {
+        "file": "NCL MM Tender Poles Final Commercial (1).pdf",
+        "page": 17
+      }
+    }
+  ],
+  "tender_file": "NCL MM Tender Poles Final Commercial (1).pdf",
+  "extraction_timestamp": "2026-06-12T16:52:20.346382"
+}

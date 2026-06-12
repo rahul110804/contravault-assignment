@@ -1,0 +1,482 @@
+[
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows the type of steel poles as Swaged (SP), meeting the requirement of Swaged (SP) as prescribed on each pole.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows coating as bitumen coated per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_003",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows the length of the tubular steel pole as 11 metre, meeting the requirement of TECH_S1_003.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_004",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's designation offered is 410SP-57, matching the required designation as per Table 2 of IS 2713/80 Part-2.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report on page 16 of the Vishal bundle clearly states the type of steel poles as Swaged (SP), meeting the requirement of TECH_S2_001.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows bitumen coating per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_003",
+    "compliance": "missing",
+    "score": 0,
+    "reason": "Vendor's test reports (p.16 p.1 and p.17 p.1) show offered pole lengths of 11m and 16m, but neither meets the required length of 13m specified in Schedule 2, TECH_S2_003.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.17",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_004",
+    "compliance": "missing",
+    "score": 0,
+    "reason": "Vendor's designation offered is 410SP-80 and 410SP-57, but the requirement specifies 410SP-72, which is not mentioned in the provided evidence.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.17",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows pole type as Swaged (SP), meeting the requirement of Type of steel poles must be Swaged (SP) with departmental logo as prescribed on each pole.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows coating as bitumen coated per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_003",
+    "compliance": "partial",
+    "score": 60,
+    "reason": "Vendor's test report shows a pole length of 16 metres, but also shows a pole length of 11 metres, indicating a discrepancy in the offered length.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.17",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_004",
+    "compliance": "partial",
+    "score": 80,
+    "reason": "Vendor's designation offered is 410SP-80, matching the required designation as per Table 2 of IS 2713/80 Part-2, but the BIS license coverage only mentions up to 410SP80, not explicitly stating 410SP-80.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.17",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_vishal",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Vishal bundle p.16",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's self-declaration (OEM declaration p.2 p.1) confirms the type of steel poles as Swaged (SP), meeting the requirement.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows coating as bitumen coated per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_003",
+    "compliance": "partial",
+    "score": 60,
+    "reason": "Vendor's test report shows a pole length of 11 metres, meeting the requirement, but also shows lengths of 13 and 16 metres, indicating that the vendor offers poles of different lengths, not just 11 metres as required.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - 11m report",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_004",
+    "compliance": "partial",
+    "score": 80,
+    "reason": "Vendor's test report shows designation of 410SP-57, meeting the requirement of 410SP-57, but is silent on the designation of 410SP-72 as per Table 2 of IS 2713/80 Part-2.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - OEM declaration p.2",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 1",
+    "req_id": "TECH_S1_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's self-declaration (OEM declaration p.2 p.1) confirms the type of steel poles as Swaged (SP), meeting the requirement.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows bitumen coating per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_003",
+    "compliance": "partial",
+    "score": 60,
+    "reason": "Vendor's test report shows a pole length of 13 metres, meeting the requirement, but also shows lengths of 11 and 16 metres, indicating a gap in the offered length.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - 13m report",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_004",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's designation offered is 410SP-72 as per test report SBSCP06534 13m p.1, meeting the requirement of 410SP-72 as per Table 2 of IS 2713/80 Part-2.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - OEM declaration p.2",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 2",
+    "req_id": "TECH_S2_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_001",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's self-declaration (OEM declaration p.2 p.1) confirms that the poles are Swaged (SP) with departmental logo as prescribed on each pole, meeting the requirement.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_002",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report (Subham bundle - NABL reports p.1) clearly states that the coating is bitumen coated per IS:2713 Part 1/1980, meeting the requirement of bitumen coated per IS:2713 Part 1/1980 cl.13.1.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_003",
+    "compliance": "partial",
+    "score": 60,
+    "reason": "Vendor's test report shows a pole length of 16 metres, meeting the requirement, but also shows lengths of 13 and 11 metres, indicating a lack of consistency.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - 16m report",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_004",
+    "compliance": "partial",
+    "score": 80,
+    "reason": "Vendor's test report shows designation of 410SP-80, meeting the requirement of 410SP-80 as per Table 2 of IS 2713/80 Part-2, but another test report shows designation of 410SP-72, indicating partial compliance.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - OEM declaration p.2",
+      "page": 1
+    }
+  },
+  {
+    "vendor_id": "vendor_subham",
+    "schedule": "Schedule 3",
+    "req_id": "TECH_S3_005",
+    "compliance": "full",
+    "score": 100,
+    "reason": "Vendor's test report shows steel grade as YST 240, meeting the IS:1161/1998 requirement of minimum YST 240.",
+    "requirement_source_ref": {
+      "file": "tender.json",
+      "page": 1
+    },
+    "evidence_source_ref": {
+      "file": "Subham bundle - NABL reports",
+      "page": 1
+    }
+  }
+]

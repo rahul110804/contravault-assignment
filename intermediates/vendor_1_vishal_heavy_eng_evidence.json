@@ -1,0 +1,1106 @@
+{
+  "vendor_id": "vendor_1_vishal_heavy_eng",
+  "evidence": [
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "estimated_bid_value",
+      "value": 98643750,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "epbg_percentage",
+      "value": 5.0,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "epbg_duration_months",
+      "value": 9,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "epbg_beneficiary",
+      "value": "NCL Singrauli",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "reserved_for_make_in_india_products",
+      "value": true,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "reserved_for_mse",
+      "value": true,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "evaluation_method",
+      "value": "Item wise evaluation",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "bid_splitting_applied",
+      "value": false,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 19
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "make_in_india_class_1_local_supplier_requirement",
+      "value": "Minimum 60% local content required",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "mse_reservation_condition",
+      "value": "Bid reserved for purchase from Micro and Small Enterprises whose credentials are validated online through Udyog Aadhaar for that product category. Bidder must be the manufacturer.",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_item_category",
+      "value": "Lighting Pole Or Post And Hardware - Tubular Street Light Poles (v2)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_quantity",
+      "value": 1600,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_local_content_requirement",
+      "value": "Minimum 60% Local Content required for qualifying as Class 1 Local Supplier",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_item_category",
+      "value": "Lighting Pole Or Post And Hardware - Tubular Street Light Poles (v2)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_quantity",
+      "value": 1600,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_local_content_requirement",
+      "value": "Minimum 60% Local Content required for qualifying as Class 1 Local Supplier",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_item_category",
+      "value": "Lighting Pole Or Post And Hardware - Tubular Street Light Poles (v2)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_quantity",
+      "value": 650,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_local_content_requirement",
+      "value": "Minimum 60% Local Content required for qualifying as Class 1 Local Supplier",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 20
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_1_constructional_type",
+      "value": "Swaged (SP)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_1_coating",
+      "value": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_1_length_metre",
+      "value": 11,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_1_is_designation",
+      "value": "410SP-57 as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_delivery_commitment_quantity_1",
+      "value": 800,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_delivery_commitment_days_1",
+      "value": 90,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_delivery_commitment_quantity_2",
+      "value": 800,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_1_delivery_commitment_days_2",
+      "value": 180,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 21
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_2_constructional_type",
+      "value": "Swaged (SP)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_2_coating",
+      "value": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_2_length_metre",
+      "value": 13,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_2_is_designation",
+      "value": "410SP-72 as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_delivery_commitment_quantity_1",
+      "value": 800,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_delivery_commitment_days_1",
+      "value": 90,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_delivery_commitment_quantity_2",
+      "value": 800,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_2_delivery_commitment_days_2",
+      "value": 180,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 22
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_3_constructional_type",
+      "value": "Swaged (SP)",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_3_coating",
+      "value": "Bitumen coated as per clause 13.1 of IS:2713 part 1/1980",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_3_length_metre",
+      "value": 16,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "designation_offered_schedule_3_is_designation",
+      "value": "410SP-80 as per table 2 of IS 2713/80 Part-2 with amdt No 1",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_delivery_commitment_quantity_1",
+      "value": 325,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_delivery_commitment_days_1",
+      "value": 90,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_delivery_commitment_quantity_2",
+      "value": 325,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "schedule_3_delivery_commitment_days_2",
+      "value": 180,
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "option_clause_quantity_increase_decrease_at_contract_placement",
+      "value": "Up to 25% of bid quantity",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "option_clause_quantity_increase_during_contract_currency",
+      "value": "Up to 25% of contracted quantity",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "scope_of_supply",
+      "value": "Only supply of Goods",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 23
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "tender_number",
+      "value": "GEM/2024/B/4953883",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "tender_date",
+      "value": "2024-05-27",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "product_for_supply",
+      "value": "Steel Tubular Poles",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "firm_name",
+      "value": "Vishal Heavy Engineering Private Limited",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "firm_address",
+      "value": "C 101, RDC, RAJ NAGAR, Ghaziabad, Uttar Pradesh, 201002",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "firm_telephone_number",
+      "value": "011-46205620",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "manufacturing_works_location",
+      "value": "B-22, Industrial Area, Skikandrabad, Bulandshahr, U.P",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 32
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "company_name",
+      "value": "VISHAL HEAVY ENGINEERING. PRIVATE LIMITED",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "company_address",
+      "value": "C-IOI, RDC, RAJ NAGAR, GHAZIABAD-201002, UTTAR PRADESH",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "cin_number",
+      "value": "U51909UP2020PTC132689",
+      "evidence_type": "self_declaration",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "current_ratio_2022_23",
+      "value": 4.26,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "current_ratio_2021_22",
+      "value": 1.38,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "debt_equity_ratio_2022_23",
+      "value": 0.52,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "debt_equity_ratio_2021_22",
+      "value": 6.39,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_equity_ratio_2022_23",
+      "value": 0.9,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_equity_ratio_2021_22",
+      "value": 1.91,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "inventory_turnover_ratio_2022_23",
+      "value": 17.96,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "inventory_turnover_ratio_2021_22",
+      "value": 13.14,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "trade_receivable_turnover_ratio_2022_23",
+      "value": 1.12,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "trade_receivable_turnover_ratio_2021_22",
+      "value": 27.96,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "trade_payable_turnover_ratio_2022_23",
+      "value": 50.09,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "trade_payable_turnover_ratio_2021_22",
+      "value": 5.66,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "net_capital_turnover_ratio_2022_23",
+      "value": 11.16,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "net_capital_turnover_ratio_2021_22",
+      "value": 29.11,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "net_profit_ratio_2022_23",
+      "value": 0.04,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "net_profit_ratio_2021_22",
+      "value": 0.03,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_capital_employed_2022_23",
+      "value": 0.18,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_capital_employed_2021_22",
+      "value": 0.16,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_investment_2022_23",
+      "value": 0.48,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "return_on_investment_2021_22",
+      "value": 0.98,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 56
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "revenue_from_operations_2022_23",
+      "value": 13107.74,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "revenue_from_operations_2021_22",
+      "value": 77.0,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_raw_materials_consumed_2022_23",
+      "value": 11801.13,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_raw_materials_consumed_2021_22",
+      "value": 1981.31,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "employee_benefits_expenses_2022_23",
+      "value": 28.7,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "employee_benefits_expenses_2021_22",
+      "value": 1.75,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "finance_costs_2022_23",
+      "value": 1.03,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "finance_costs_2021_22",
+      "value": 0.84,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "depreciation_amortization_expenses_2022_23",
+      "value": 29.36,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "depreciation_amortization_expenses_2021_22",
+      "value": 2.39,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 57
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_operating_expenses_2022_23",
+      "value": 641.54,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_operating_expenses_2021_22",
+      "value": 33.56,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_office_administration_expenses_2022_23",
+      "value": 12.52,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_office_administration_expenses_2021_22",
+      "value": 5.41,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "directors_remuneration_2022_23",
+      "value": 3.0,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "auditors_remuneration_2022_23",
+      "value": 0.25,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "auditors_remuneration_2021_22",
+      "value": 0.25,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_selling_distribution_expenses_2022_23",
+      "value": 444.46,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_selling_distribution_expenses_2021_22",
+      "value": 66.94,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_expenses_2022_23",
+      "value": 1101.77,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "total_expenses_2021_22",
+      "value": 106.16,
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 58
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "auditor_name",
+      "value": "KUMAR SUNNY & COMPANY",
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 59
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "auditor_address",
+      "value": "164 GF, GOPAL PARK, KRISHNA NAGAR, DELHI-110051",
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 59
+      }
+    },
+    {
+      "vendor_id": "vendor_1_vishal_heavy_eng",
+      "field": "audited_financial_statements_period",
+      "value": "as at March 31, 2021",
+      "evidence_type": "financial",
+      "valid_until": null,
+      "source_ref": {
+        "file": "vendor 1 - Vishal Heavy Eng.pdf",
+        "page": 59
+      }
+    }
+  ],
+  "extraction_timestamp": "2026-06-12T16:59:33.438910"
+}
